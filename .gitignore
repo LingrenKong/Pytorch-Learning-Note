@@ -1,2 +1,6 @@
-
-.ipynb_checkpoints/从例子学习Pytorch-checkpoint.ipynb
+# ipynb缓存不上传
+.ipynb_checkpoints
+# tensorboard中间数据不上传
+runs
+# 经典数据不上传
+data
