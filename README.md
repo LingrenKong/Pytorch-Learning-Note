@@ -14,10 +14,6 @@
 
 下载位置https://developer.nvidia.com/cuda-11.0-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exenetwork
 
-![image-20210119150111002](C:\Users\klr\AppData\Roaming\Typora\typora-user-images\image-20210119150111002.png)
-
-
-
 驱动程序启动会先检查是否可以，所以直接莽一波先下载也还好，不用特别仔细对照英伟达的参数表。
 
 选择了自定义安装操作，都勾选了没有改动，保险起见路径没有换，还是放在C盘了。
@@ -59,7 +55,7 @@ print(cudnn.is_available())  #返回True则说明已经安装了cuDNN
 
 
 
-# Torch
+
 
 
 
